@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+  --color-canvas: #f9f8f6;
+  --color-ink: #0f1115;
+  --color-brand: #d4471a;
+  --color-brand-dark: #b83a12;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+}

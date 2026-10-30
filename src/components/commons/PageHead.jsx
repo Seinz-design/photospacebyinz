@@ -1,7 +1,7 @@
-const PageHead = ({ title = 'Photobooth' }) => {
+const PageHead = ({ title = 'Photo-Inz' }) => {
     return (
         <>
-            <title>{title === 'Photobooth' ? title : `Photo-Inz | ${title} `}</title>
+            <title>{title === 'Photo-Inz' ? title : `Photo-Inz | ${title} `}</title>
             <link rel="icon" href="/images/general/logo.svg" type="image/svg+xml" />
         </>
     )
